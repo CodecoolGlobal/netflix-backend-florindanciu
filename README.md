@@ -5,7 +5,7 @@ The architect guy must have been totally nuts but hopefully the exercise will sh
 
 ### Service Architecture
 
-![Architecture](https://learn.code.cool/media/advanced/netflixmm.png)
+<img src="./images/netflixmm.png"/>
 
 - Eureka Server for service discovery
 - Zuul for API Gateway
