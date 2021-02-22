@@ -31,6 +31,7 @@ public class VideoService {
         return videoRepository.findAll();
     }
 
+    // get video by id
     public Video getVideoById(Long id) {
         log.info("Retrieved video with id " + id);
         return videoRepository.findById(id)
